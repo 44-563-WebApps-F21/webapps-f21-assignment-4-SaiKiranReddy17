@@ -1,12 +1,30 @@
+.speech{
+    font-family: "times new roman";
+    font-size: 12px;
+    color: black;
+}
+.stage-direction{
+    font-family: "Calibri";
+    font-size: 20px;
+    color: violet;
+    background-color: lightblue;
+}
+.name{
+    font-family: "Biome";
+    font-size: 18px;
+    color:lightpink;
+    background-color: lightgray;
+}
+.stage-direction:hover{
+    color: blue;
+    background-color: brown;
+}
+.LORDDARLINGTON{
+    color: coral;
+}
+.LADYWINDERMERE{
+    color: darkblue;
+}
 h6{
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-}
-p{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.stage:hover{
-    color: chocolate;
-    background-color: cyan;
+    margin:10px 0;
 }
