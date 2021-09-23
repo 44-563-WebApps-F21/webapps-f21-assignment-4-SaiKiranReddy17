@@ -6,25 +6,36 @@
 .stage-direction{
     font-family: "Calibri";
     font-size: 20px;
-    color: violet;
+    color: black;
     background-color: lightblue;
 }
 .name{
     font-family: "Biome";
     font-size: 18px;
-    color:lightpink;
+    color:black;
     background-color: lightgray;
 }
 .stage-direction:hover{
     color: blue;
     background-color: brown;
 }
-.LORDDARLINGTON{
+.DARLINGTON{
     color: coral;
 }
-.LADYWINDERMERE{
+.WINDERMERE{
     color: darkblue;
+}
+.BERWICK{
+    color: yellow;
 }
 h6{
     margin:10px 0;
+}
+table, th, td, tr{
+    border: solid goldenrod;
+    color:blue;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 12px;
+    margin: 10px;
 }
