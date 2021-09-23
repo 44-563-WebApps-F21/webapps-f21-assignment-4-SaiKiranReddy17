@@ -1,18 +1,18 @@
 .speech{
     font-family: "times new roman";
     font-size: 12px;
-    color: black;
+    color:red;
 }
 .stage-direction{
     font-family: "Calibri";
     font-size: 20px;
-    color: black;
+    color: brown;
     background-color: lightblue;
 }
 .name{
     font-family: "Biome";
     font-size: 18px;
-    color:black;
+    color: red;
 }
 .stage-direction:hover{
     color: blue;
@@ -63,4 +63,7 @@ tr:nth-child(even){background-color:lightgreen ;}
     padding: 14px 16px;
     text-decoration: none;
   }
-
+  li a:hover {
+    background-color: #111;
+    color: blue
+  }
