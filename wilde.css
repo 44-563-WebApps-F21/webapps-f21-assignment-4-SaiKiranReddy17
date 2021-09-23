@@ -13,7 +13,6 @@
     font-family: "Biome";
     font-size: 18px;
     color:black;
-    background-color: lightgray;
 }
 .stage-direction:hover{
     color: blue;
@@ -39,12 +38,12 @@ table, th, td, tr{
     padding: 12px;
     margin: 10px;
 }
- tr:nth-child(even){background-color:lightgreen ;}
+tr:nth-child(even){background-color:lightgreen ;}
  .name:hover{
      text-shadow: 5px 3px 8px green;
      border: solid 4px tomato
  }
-
+ 
  ul {
     list-style-type: none;
     margin: 0;
